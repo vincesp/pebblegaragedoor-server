@@ -1,0 +1,14 @@
+{
+  "name": "pebbletrigger",
+  "version": "0.1.0",
+  "description": "Garagedoor opener on your Pebble watch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+     "websocket":"*"
+  },
+  "author": "vincent.spallek@gmail.com",
+  "license": "ISC"
+}
